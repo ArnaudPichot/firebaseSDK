@@ -1,0 +1,28 @@
+{
+  "characters": [
+    { "id": 0,
+    "name": "Rick Grimes"
+  },
+  { "id": 1,
+    "name": "Shane Walsh"
+   },
+  { "id": 2,
+    "name": " Lori Grimes"
+   },
+  { "id": 3,
+    "name": "Andrea Harrison"
+   },
+  { "id": 4,
+    "name": "Dale Horvath"
+   },
+  { "id": 5,
+    "name": "Glenn Rhee"
+   },
+   { "id": 6,
+    "name": "Carl Grimes"
+  },
+  { "id": 7,
+    "name": "Daryl Dixon"
+   }
+  ]
+}
